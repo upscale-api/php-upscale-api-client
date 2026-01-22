@@ -51,7 +51,7 @@ $data = [
     'image' => $image, // URL of the image to upscale
     'scale' => 4, // Upscaling factor: 2, 4, or 8
     'face_enhance' => false, // Enable face enhancement (+1 credit)
-    'format' => 'jpg', // Output format: jpg, png, or webp
+    'format' => 'jpg', // Output format: jpg, png, webp or avif
     'quality' => 90 // Output quality (1-100)
 ];
 

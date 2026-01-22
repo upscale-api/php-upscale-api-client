@@ -10,7 +10,7 @@ The script automatically handles two upload modes:
 
 * **AI Upscaling**: Scale up by 2x, 4x, or 8x.
 * **Face Enhancement**: Restore facial details using dedicated AI models.
-* **Format Conversion**: Output results in JPG, PNG, or WEBP.
+* **Format Conversion**: Output results in JPG, PNG, WEBP or AVIF.
 * **Compression Control**: Adjust output quality (1-100).
 * **Base64 Support**: Automatically handles local file encoding for secure uploads.
 
